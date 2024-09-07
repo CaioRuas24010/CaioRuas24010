@@ -1,6 +1,8 @@
-## Olá, tudo bem? Bem-vindo ao meu git! 👋
+## Olá, tudo bem? Sou o Caio, bem-vindo(a) ao meu git! 👋
 
 <img src="/fisicaio_banner.png">
+
+
 
 <!--
 **CaioRuas24010/CaioRuas24010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
