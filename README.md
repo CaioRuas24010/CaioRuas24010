@@ -24,6 +24,8 @@ Estou sempre aberto para contato e sugestões, tenha uma ótima vísita! ✈️
 ![](https://github-readme-stats.vercel.app/api?username=caioruas24010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caioruas24010&theme=dark&hide_border=false)<br/>
 
+### 🔝 Repositórios mais contribuidos:
+![](https://github-contributor-stats.vercel.app/api?username=caioruas24010&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=caioruas24010&icon=2&color=3)](https://visitcount.itsvg.in)
