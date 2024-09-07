@@ -2,7 +2,7 @@
 
 <img src="/fisicaio_banner.png">
 
-Sou muito interessado na área das ciências naturais, principalmente pela física. Atualmente, sou estudante do curso Bacharelado em Ciência e Tecnologia pela Ilum - Escola de Ciência e estou aprendendo e me aventurando na programação! Peço que tenha em mente que sou iniciante, mas garanto que os projetos são interessantes e feitos com carinho.
+Sou muito interessado na área das ciências naturais, principalmente pela física. Atualmente, sou estudante do curso Bacharelado em Ciência e Tecnologia pela Ilum - Escola de Ciência e estou aprendendo e me aventurando na programação! Peço que tenha em mente que sou iniciante, mas garanto que os projetos são interessantes e feitos com carinho/dedicação.
 
 Estou sempre aberto para contato e sugestões, tenha uma ótima vísita! ✈️
 
